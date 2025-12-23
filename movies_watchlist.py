@@ -40,7 +40,7 @@ while True:
                 print("You must enter a number.")
 
     elif choice == "4":
-        print("Exiting program. 🎥")
+        print("Exiting program. ")
         break
 
     else:
